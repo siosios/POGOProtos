@@ -27,19 +27,27 @@ namespace POGOProtos.Settings {
             "ZXR0aW5ncy5wcm90bxolUE9HT1Byb3Rvcy9TZXR0aW5ncy9NYXBTZXR0aW5n",
             "cy5wcm90bxonUE9HT1Byb3Rvcy9TZXR0aW5ncy9MZXZlbFNldHRpbmdzLnBy",
             "b3RvGitQT0dPUHJvdG9zL1NldHRpbmdzL0ludmVudG9yeVNldHRpbmdzLnBy",
-            "b3RvGiVQT0dPUHJvdG9zL1NldHRpbmdzL0dwc1NldHRpbmdzLnByb3RvItoC",
-            "Cg5HbG9iYWxTZXR0aW5ncxI4Cg1mb3J0X3NldHRpbmdzGAIgASgLMiEuUE9H",
-            "T1Byb3Rvcy5TZXR0aW5ncy5Gb3J0U2V0dGluZ3MSNgoMbWFwX3NldHRpbmdz",
-            "GAMgASgLMiAuUE9HT1Byb3Rvcy5TZXR0aW5ncy5NYXBTZXR0aW5ncxI6Cg5s",
-            "ZXZlbF9zZXR0aW5ncxgEIAEoCzIiLlBPR09Qcm90b3MuU2V0dGluZ3MuTGV2",
-            "ZWxTZXR0aW5ncxJCChJpbnZlbnRvcnlfc2V0dGluZ3MYBSABKAsyJi5QT0dP",
-            "UHJvdG9zLlNldHRpbmdzLkludmVudG9yeVNldHRpbmdzEh4KFm1pbmltdW1f",
-            "Y2xpZW50X3ZlcnNpb24YBiABKAkSNgoMZ3BzX3NldHRpbmdzGAcgASgLMiAu",
-            "UE9HT1Byb3Rvcy5TZXR0aW5ncy5HcHNTZXR0aW5nc2IGcHJvdG8z"));
+            "b3RvGiVQT0dPUHJvdG9zL1NldHRpbmdzL0dwc1NldHRpbmdzLnByb3RvGipQ",
+            "T0dPUHJvdG9zL1NldHRpbmdzL0Zlc3RpdmFsU2V0dGluZ3MucHJvdG8aJ1BP",
+            "R09Qcm90b3MvU2V0dGluZ3MvRXZlbnRTZXR0aW5ncy5wcm90bxonUE9HT1By",
+            "b3Rvcy9TZXR0aW5ncy9TZmlkYVNldHRpbmdzLnByb3RvIq8ECg5HbG9iYWxT",
+            "ZXR0aW5ncxI4Cg1mb3J0X3NldHRpbmdzGAIgASgLMiEuUE9HT1Byb3Rvcy5T",
+            "ZXR0aW5ncy5Gb3J0U2V0dGluZ3MSNgoMbWFwX3NldHRpbmdzGAMgASgLMiAu",
+            "UE9HT1Byb3Rvcy5TZXR0aW5ncy5NYXBTZXR0aW5ncxI6Cg5sZXZlbF9zZXR0",
+            "aW5ncxgEIAEoCzIiLlBPR09Qcm90b3MuU2V0dGluZ3MuTGV2ZWxTZXR0aW5n",
+            "cxJCChJpbnZlbnRvcnlfc2V0dGluZ3MYBSABKAsyJi5QT0dPUHJvdG9zLlNl",
+            "dHRpbmdzLkludmVudG9yeVNldHRpbmdzEh4KFm1pbmltdW1fY2xpZW50X3Zl",
+            "cnNpb24YBiABKAkSNgoMZ3BzX3NldHRpbmdzGAcgASgLMiAuUE9HT1Byb3Rv",
+            "cy5TZXR0aW5ncy5HcHNTZXR0aW5ncxJAChFmZXN0aXZhbF9zZXR0aW5ncxgI",
+            "IAEoCzIlLlBPR09Qcm90b3MuU2V0dGluZ3MuRmVzdGl2YWxTZXR0aW5ncxI6",
+            "Cg5ldmVudF9zZXR0aW5ncxgJIAEoCzIiLlBPR09Qcm90b3MuU2V0dGluZ3Mu",
+            "RXZlbnRTZXR0aW5ncxIZChFtYXhfcG9rZW1vbl90eXBlcxgKIAEoBRI6Cg5z",
+            "ZmlkYV9zZXR0aW5ncxgLIAEoCzIiLlBPR09Qcm90b3MuU2V0dGluZ3MuU2Zp",
+            "ZGFTZXR0aW5nc2IGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
-          new pbr::FileDescriptor[] { global::POGOProtos.Settings.FortSettingsReflection.Descriptor, global::POGOProtos.Settings.MapSettingsReflection.Descriptor, global::POGOProtos.Settings.LevelSettingsReflection.Descriptor, global::POGOProtos.Settings.InventorySettingsReflection.Descriptor, global::POGOProtos.Settings.GpsSettingsReflection.Descriptor, },
+          new pbr::FileDescriptor[] { global::POGOProtos.Settings.FortSettingsReflection.Descriptor, global::POGOProtos.Settings.MapSettingsReflection.Descriptor, global::POGOProtos.Settings.LevelSettingsReflection.Descriptor, global::POGOProtos.Settings.InventorySettingsReflection.Descriptor, global::POGOProtos.Settings.GpsSettingsReflection.Descriptor, global::POGOProtos.Settings.FestivalSettingsReflection.Descriptor, global::POGOProtos.Settings.EventSettingsReflection.Descriptor, global::POGOProtos.Settings.SfidaSettingsReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, new pbr::GeneratedClrTypeInfo[] {
-            new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Settings.GlobalSettings), global::POGOProtos.Settings.GlobalSettings.Parser, new[]{ "FortSettings", "MapSettings", "LevelSettings", "InventorySettings", "MinimumClientVersion", "GpsSettings" }, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Settings.GlobalSettings), global::POGOProtos.Settings.GlobalSettings.Parser, new[]{ "FortSettings", "MapSettings", "LevelSettings", "InventorySettings", "MinimumClientVersion", "GpsSettings", "FestivalSettings", "EventSettings", "MaxPokemonTypes", "SfidaSettings" }, null, null, null)
           }));
     }
     #endregion
@@ -76,6 +84,10 @@ namespace POGOProtos.Settings {
       InventorySettings = other.inventorySettings_ != null ? other.InventorySettings.Clone() : null;
       minimumClientVersion_ = other.minimumClientVersion_;
       GpsSettings = other.gpsSettings_ != null ? other.GpsSettings.Clone() : null;
+      FestivalSettings = other.festivalSettings_ != null ? other.FestivalSettings.Clone() : null;
+      EventSettings = other.eventSettings_ != null ? other.EventSettings.Clone() : null;
+      maxPokemonTypes_ = other.maxPokemonTypes_;
+      SfidaSettings = other.sfidaSettings_ != null ? other.SfidaSettings.Clone() : null;
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -149,6 +161,50 @@ namespace POGOProtos.Settings {
       }
     }
 
+    /// <summary>Field number for the "festival_settings" field.</summary>
+    public const int FestivalSettingsFieldNumber = 8;
+    private global::POGOProtos.Settings.FestivalSettings festivalSettings_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::POGOProtos.Settings.FestivalSettings FestivalSettings {
+      get { return festivalSettings_; }
+      set {
+        festivalSettings_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "event_settings" field.</summary>
+    public const int EventSettingsFieldNumber = 9;
+    private global::POGOProtos.Settings.EventSettings eventSettings_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::POGOProtos.Settings.EventSettings EventSettings {
+      get { return eventSettings_; }
+      set {
+        eventSettings_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "max_pokemon_types" field.</summary>
+    public const int MaxPokemonTypesFieldNumber = 10;
+    private int maxPokemonTypes_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int MaxPokemonTypes {
+      get { return maxPokemonTypes_; }
+      set {
+        maxPokemonTypes_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "sfida_settings" field.</summary>
+    public const int SfidaSettingsFieldNumber = 11;
+    private global::POGOProtos.Settings.SfidaSettings sfidaSettings_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::POGOProtos.Settings.SfidaSettings SfidaSettings {
+      get { return sfidaSettings_; }
+      set {
+        sfidaSettings_ = value;
+      }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override bool Equals(object other) {
       return Equals(other as GlobalSettings);
@@ -168,6 +224,10 @@ namespace POGOProtos.Settings {
       if (!object.Equals(InventorySettings, other.InventorySettings)) return false;
       if (MinimumClientVersion != other.MinimumClientVersion) return false;
       if (!object.Equals(GpsSettings, other.GpsSettings)) return false;
+      if (!object.Equals(FestivalSettings, other.FestivalSettings)) return false;
+      if (!object.Equals(EventSettings, other.EventSettings)) return false;
+      if (MaxPokemonTypes != other.MaxPokemonTypes) return false;
+      if (!object.Equals(SfidaSettings, other.SfidaSettings)) return false;
       return true;
     }
 
@@ -180,6 +240,10 @@ namespace POGOProtos.Settings {
       if (inventorySettings_ != null) hash ^= InventorySettings.GetHashCode();
       if (MinimumClientVersion.Length != 0) hash ^= MinimumClientVersion.GetHashCode();
       if (gpsSettings_ != null) hash ^= GpsSettings.GetHashCode();
+      if (festivalSettings_ != null) hash ^= FestivalSettings.GetHashCode();
+      if (eventSettings_ != null) hash ^= EventSettings.GetHashCode();
+      if (MaxPokemonTypes != 0) hash ^= MaxPokemonTypes.GetHashCode();
+      if (sfidaSettings_ != null) hash ^= SfidaSettings.GetHashCode();
       return hash;
     }
 
@@ -214,6 +278,22 @@ namespace POGOProtos.Settings {
         output.WriteRawTag(58);
         output.WriteMessage(GpsSettings);
       }
+      if (festivalSettings_ != null) {
+        output.WriteRawTag(66);
+        output.WriteMessage(FestivalSettings);
+      }
+      if (eventSettings_ != null) {
+        output.WriteRawTag(74);
+        output.WriteMessage(EventSettings);
+      }
+      if (MaxPokemonTypes != 0) {
+        output.WriteRawTag(80);
+        output.WriteInt32(MaxPokemonTypes);
+      }
+      if (sfidaSettings_ != null) {
+        output.WriteRawTag(90);
+        output.WriteMessage(SfidaSettings);
+      }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -236,6 +316,18 @@ namespace POGOProtos.Settings {
       }
       if (gpsSettings_ != null) {
         size += 1 + pb::CodedOutputStream.ComputeMessageSize(GpsSettings);
+      }
+      if (festivalSettings_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(FestivalSettings);
+      }
+      if (eventSettings_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(EventSettings);
+      }
+      if (MaxPokemonTypes != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeInt32Size(MaxPokemonTypes);
+      }
+      if (sfidaSettings_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(SfidaSettings);
       }
       return size;
     }
@@ -277,6 +369,27 @@ namespace POGOProtos.Settings {
           gpsSettings_ = new global::POGOProtos.Settings.GpsSettings();
         }
         GpsSettings.MergeFrom(other.GpsSettings);
+      }
+      if (other.festivalSettings_ != null) {
+        if (festivalSettings_ == null) {
+          festivalSettings_ = new global::POGOProtos.Settings.FestivalSettings();
+        }
+        FestivalSettings.MergeFrom(other.FestivalSettings);
+      }
+      if (other.eventSettings_ != null) {
+        if (eventSettings_ == null) {
+          eventSettings_ = new global::POGOProtos.Settings.EventSettings();
+        }
+        EventSettings.MergeFrom(other.EventSettings);
+      }
+      if (other.MaxPokemonTypes != 0) {
+        MaxPokemonTypes = other.MaxPokemonTypes;
+      }
+      if (other.sfidaSettings_ != null) {
+        if (sfidaSettings_ == null) {
+          sfidaSettings_ = new global::POGOProtos.Settings.SfidaSettings();
+        }
+        SfidaSettings.MergeFrom(other.SfidaSettings);
       }
     }
 
@@ -325,6 +438,31 @@ namespace POGOProtos.Settings {
               gpsSettings_ = new global::POGOProtos.Settings.GpsSettings();
             }
             input.ReadMessage(gpsSettings_);
+            break;
+          }
+          case 66: {
+            if (festivalSettings_ == null) {
+              festivalSettings_ = new global::POGOProtos.Settings.FestivalSettings();
+            }
+            input.ReadMessage(festivalSettings_);
+            break;
+          }
+          case 74: {
+            if (eventSettings_ == null) {
+              eventSettings_ = new global::POGOProtos.Settings.EventSettings();
+            }
+            input.ReadMessage(eventSettings_);
+            break;
+          }
+          case 80: {
+            MaxPokemonTypes = input.ReadInt32();
+            break;
+          }
+          case 90: {
+            if (sfidaSettings_ == null) {
+              sfidaSettings_ = new global::POGOProtos.Settings.SfidaSettings();
+            }
+            input.ReadMessage(sfidaSettings_);
             break;
           }
         }
